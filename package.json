@@ -1,0 +1,16 @@
+{
+  "name": "19.1-websokets-and-advance-backend-comm",
+  "version": "1.0.0",
+  "description": "npm init -y  ===>initalized with empty json\r npx tsc --init  ==> for the ts config\r in ts config==> \"rootDir\":\"./src\" and \"outDir\":\"./dist\"===>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ws": "^8.5.11",
+    "ws": "^8.18.0"
+  }
+}
